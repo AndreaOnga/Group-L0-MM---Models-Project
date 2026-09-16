@@ -11,8 +11,8 @@ Repository for the course project **Statistical Models** — Ph.D. in Statistica
 ## 📂 Repository Structure
 
 Group-L0-MM---Models-Project/
-├── MM functions/               # MM algorithm implementation
-├── applications/               # Some applications          
-├── docs/               # Final Poster
+├── MM functions               # MM algorithm implementation/
+├── applications               # Some applications/        
+├── docs             # Final Poster/
 └── README.md           # Project README
 
